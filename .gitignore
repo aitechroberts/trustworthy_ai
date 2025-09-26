@@ -3,6 +3,11 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+.venv/
+input_images/
+
+.python-version
+
 # C extensions
 *.so
 
