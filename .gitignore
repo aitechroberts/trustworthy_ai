@@ -5,6 +5,7 @@ __pycache__/
 
 .venv/
 input_images/
+videos/
 
 .python-version
 
