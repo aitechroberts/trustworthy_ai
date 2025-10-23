@@ -1,0 +1,4 @@
+--index-url https://download.pytorch.org/whl/cu118
+torch==2.5.*
+torchvision==0.20.*
+torchaudio==2.5.*
